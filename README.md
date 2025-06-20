@@ -1,4 +1,4 @@
-# A Note Android App for saving notes or to do on daily basis.
+# An Android App for saving notes or to-do on daily basis.
 <p align="center">
 <img width="250" src="https://github.com/TasniaKheya/Note_App/blob/main/app/c491ac83-4b9c-4ddd-929a-f8a40e10c4e6.jpeg" />
 <img width="250" src="https://github.com/TasniaKheya/Note_App/blob/main/app/e7017c2a-ccaa-49c5-9ca9-4ee8faf97368.jpeg" />
